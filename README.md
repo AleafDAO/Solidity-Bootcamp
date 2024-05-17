@@ -1,4 +1,3 @@
-<div align="center">
   <h1>UJS Solidity 校园激励计划</h1>
   "Solidity校园激励计划"旨在鼓励江苏大学学生学习和掌握Solidity编程语言，从而为进入区块链开发领域奠定坚实基础，开启一个充满可能性和机遇的世界。
 
