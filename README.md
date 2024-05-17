@@ -9,8 +9,6 @@
 
 ## 课程目录
 
-<details>
-<summary>Chapters / 章节</summary>
 <ul>
 <li><a href='#blockchain-introduction'>Blockchain Introduction / 区块链介绍</a></li>
 <li><a href='#solidity'>Solidity / 编程语言</a></li>
