@@ -137,7 +137,7 @@
 
 
 
->在任务完成后，提交到[github仓库](https://github.com/AleafDAO/demo-repository)
+>在任务完成后，提交到[github仓库](https://github.com/AleafDAO/Solidity-Bootcamp)对应文件夹下
 
 
 
