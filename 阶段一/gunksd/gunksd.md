@@ -1,0 +1,18 @@
+阶段一
+1.使用remix在sepolia测试网上部署一个ERC20合约，要求：初始发行量为2100万，只有管理员可以销毁自己的Token，合约代码需要在etherscan上开源
+合约地址：0x9423C692C10554f5e23C451f84F07ad7e513891E
+https://sepolia.etherscan.io/address/0x9423c692c10554f5e23c451f84f07ad7e513891e#code
+2.使用remix在sepolia测试网上部署一个ERC721合约，要求：使用ipfs存储图片，在opensea上可见，并且设置一个student属性为UJS Blockchain。
+合约地址：0x167cD78c5522e9aAba4f970b8Df6485598bc910C  
+Opensea可见网址：
+https://testnets.opensea.io/assets/sepolia/0x167cD78c5522e9aAba4f970b8Df6485598bc910C/65
+3.编写一个Market合约，要求：使用自己发行的ERC20合约来买卖发行的NFT，NFT持有者可以上架NFT，并且设置价格（多少个token可以购买NFT）,其它地址可以通过购买函数，转入对应数量的token，得到对应的NFT。
+（1）.使用NFT合约approve你想要上架的NFT给market合约地址，然后使用market合约list传入参数上架那个NFT。
+Approve
+交易Hash：0xf7962423971a9b2d4a89f5113f1792f88fd9ec767c8be8f5df7b68010f5331d3
+List
+交易Hash：0x0e6c5590fe732d882524d56898f60cb881c862c1ef9a2267427f8756277bda94
+（2）.购买NFT
+购买之前需要approve自己的market合约地址使用自己的代币，使用另一个账号购买的
+交易Hash：
+0xf4daceed9884621c7c46216d6772250040822dc7bf128ba6d068e6c88f66fd87
