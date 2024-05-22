@@ -1,0 +1,54 @@
+{
+  "accounts": {
+    "account{-1}": "0x138843062b5ca5a88a9b32680bd944e143183c6e"
+  },
+  "linkReferences": {},
+  "transactions": [
+    {
+      "timestamp": 1715776357906,
+      "record": {
+        "value": "0",
+        "inputs": "(address,uint256)",
+        "parameters": [
+          "0x4cf54ae09e03ff33ddad51a71bf64fbe99f1770b",
+          "1"
+        ],
+        "name": "mint",
+        "type": "function",
+        "to": "created{undefined}",
+        "from": "account{-1}"
+      }
+    },
+    {
+      "timestamp": 1715776556918,
+      "record": {
+        "value": "0",
+        "inputs": "(address,uint256)",
+        "parameters": [
+          "0x4cf54ae09e03ff33ddad51a71bf64fbe99f1770b",
+          "1"
+        ],
+        "name": "mint",
+        "type": "function",
+        "to": "created{undefined}",
+        "from": "account{-1}"
+      }
+    },
+    {
+      "timestamp": 1715776573349,
+      "record": {
+        "value": "0",
+        "inputs": "(address,uint256)",
+        "parameters": [
+          "0x4cf54ae09e03ff33ddad51a71bf64fbe99f1770b",
+          "568"
+        ],
+        "name": "mint",
+        "type": "function",
+        "to": "created{undefined}",
+        "from": "account{-1}"
+      }
+    }
+  ],
+  "abis": {}
+}
