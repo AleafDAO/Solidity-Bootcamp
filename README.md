@@ -123,7 +123,7 @@
 2. 熟悉uniswapV2，并使用Foundry框架部署，编写添加流动性、Swap、移除流动性功能的测试。
 
 ### 阶段三  💰70元
-1. 完成 ChainlinkLearningPath ：https://github.com/QingyangKong/ChainlinkLearningPath中全部的三个任务。
+1. 完成 [ChainlinkLearningPath](https://github.com/QingyangKong/ChainlinkLearningPath)中全部的三个任务。
 
 ### Demoday优秀项目  💰800-1200元
 
