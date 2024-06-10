@@ -61,7 +61,7 @@
 #### [本课视频](https://openbuild.xyz/learn/courses/95/2834)
 
 - ERC/EIP 介绍
-- ERC20/ERC712/ERC1155 概念讲解
+- ERC20/ERC721/ERC1155 概念讲解
 
 ### 4. Foundry 
 
