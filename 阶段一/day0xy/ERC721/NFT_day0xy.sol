@@ -1,10 +1,10 @@
 // SPDX-License-Identifier: MIT
-
+// by 0xAA
 pragma solidity ^0.8.4;
 
 import "./ERC721.sol";
 
-contract NFT_day0xy is ERC721{
+contract NFT_day0xy2 is ERC721{
     uint public MAX_APES = 10000; // 总量
 
     // 构造函数
