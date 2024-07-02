@@ -14,7 +14,8 @@
 ![YP)99KLHNN`BZL0@J)F(Q9R](https://github.com/skcvan/Solidity-Bootcamp/assets/149351153/b670a261-59f1-4e95-901d-d1af562569e0)
 
 NFT图片可显示
-![O)SDG(QL ENRZ%5BE$WDL Q](https://github.com/skcvan/Solidity-Bootcamp/assets/149351153/7ee9ed59-ce13-48ee-8ff7-9988e7bdc8cb)
+![5C5FPF84)L$KZOD`@Y@GXYY](https://github.com/skcvan/Solidity-Bootcamp/assets/149351153/cd1a8af1-6a52-4a7a-9410-7f1def5fe3e9)
+
 
 交易（手贱搞错好多次）
 交易哈希：0x025db2325650f119292905b3b64826e878bce3ca735741de72b08bd0bf455ca2
