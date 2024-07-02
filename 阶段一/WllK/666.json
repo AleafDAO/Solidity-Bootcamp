@@ -1,0 +1,11 @@
+{
+  "name": "My NFT",
+  "description": "This is my first NFT",
+  "image": "ipfs://QmTCxgTzTsY4RhNnNJahLJyNoVDJptvR3uZCPkpazK6Snq",
+  "attributes": [
+    {
+      "trait_type": "student",
+      "value": "UJS Blockchain"
+    }
+  ]
+}
