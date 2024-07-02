@@ -19,4 +19,5 @@ NFT图片可显示
 
 交易（手贱搞错好多次）
 交易哈希：0x025db2325650f119292905b3b64826e878bce3ca735741de72b08bd0bf455ca2
-![)YU$` IT RIZ`@%XD_CYGC5](https://github.com/skcvan/Solidity-Bootcamp/assets/149351153/fd662dd0-aab2-4a16-901a-db407981a64b)
+![O)SDG(QL ENRZ%5BE$WDL Q](https://github.com/skcvan/Solidity-Bootcamp/assets/149351153/f8580e5b-e979-491a-9494-de05491712e1)
+
