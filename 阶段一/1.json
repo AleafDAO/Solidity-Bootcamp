@@ -1,0 +1,26 @@
+{
+"name": "WhiteCat",
+"description": "This is a white chubby cat, a set of cool photos slightly processed, to keep as a memory. If you like it too, then take it. ^_^",
+"image": "ipfs://QmYr3CviZ116rfKzNg4AsK6Z6XY33n7torQHVowFPyEdkT",
+"attributes": [
+{
+"trait_type": "Background",
+"value": "Black"
+},
+{
+"trait_type": "Body Color",
+"value": "White"
+},
+{
+"trait_type": "Orientation",
+"value": "Left"
+},
+{
+"trait_type": "State",
+"value": "Static"
+},
+{ "trait_type": "student",
+"value": "UJS Blockchain"}
+],
+"verison":0
+}
